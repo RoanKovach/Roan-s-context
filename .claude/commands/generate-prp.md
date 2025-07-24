@@ -15,6 +15,7 @@ The AI agent only gets the context you are appending to the PRP and training dat
    - Check test patterns for validation approach
 
 2. **External Research**
+   - use GPT_Research.docx if avalible
    - Search for similar features/patterns online
    - Library documentation (include specific URLs)
    - Implementation examples (GitHub/StackOverflow/blogs)
